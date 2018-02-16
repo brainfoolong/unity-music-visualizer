@@ -5,3 +5,11 @@ Here is a simple project that show you how you can use native Unity features to 
 You can find a ready to use binary download for windows in the releases section. This is the improved version but it also contains a little watermark.
 
 If you want donate a few bucks for my work, feel free to check this out: https://paypal.me/brainfoolong
+
+The integrated music track is my own and is free to use.
+
+# Installation
+
+* Git clone or download zip and extract to a directory
+* Open up in Unity and load the "Scene/Demo"
+* Hit play
