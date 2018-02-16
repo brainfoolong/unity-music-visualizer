@@ -22,4 +22,6 @@ There is no built in solution as video recording as very complex to get done rig
 
 # How it looks like?
 
+Video on Youtube with a short explanation: https://youtu.be/5oEKlaq3mCk
+
 ![Project Screenshot](https://cdn.rawgit.com/brainfoolong/unity-music-visualizer/dba5ec36/Assets/Textures/demo-screenshot.jpg)
