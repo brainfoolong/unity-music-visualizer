@@ -10,6 +10,9 @@ The integrated music track is my own and is free to use.
 
 Project was initially made with Unity 2017.3.1f1 and should be compatible with any further version and also probably with some versions before.
 
+# Support me
+If you like to buy some coffee, i will appriciate it. You can do this on [Patreon](https://www.patreon.com/brainfoolong) or via [PayPal](https://www.paypal.me/brainfoolong)
+
 # Installation
 
 * Git clone or download zip and extract to a directory
